@@ -1,3 +1,2 @@
 # webdev-project
-projects using html css and js
-A simple LogIn Validation Form with shaking effect 
+A simple LogIn Validation Form with shaking effect using css and html only
